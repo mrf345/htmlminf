@@ -14,6 +14,7 @@ setup(
     license='BSD',
     description='An HTML Minifier',
     long_description=README,
+    long_description_content_type="text/markdown",
     url='https://htmlmin.readthedocs.io/en/latest/',
     download_url='https://github.com/mrf345/htmlminf',
     author='Mohamed Feddad',
